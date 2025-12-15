@@ -1,0 +1,37 @@
+{
+  "folders": [
+	{
+		"name": ".idea",
+		"path": "../../.idea"
+	},
+	{
+		"name": "build",
+		"path": "../../build"
+	},
+	{
+		"name": "cmake-build-debug",
+		"path": "../../cmake-build-debug"
+	},
+	{
+		"name": "cmake-build-debug-mingw",
+		"path": "../../cmake-build-debug-mingw"
+	},
+	{
+		"name": "cmake-build-debug-mingw-event-trace",
+		"path": "../../cmake-build-debug-mingw-event-trace"
+	},
+	{
+		"name": "resources",
+		"path": "../../resources"
+	},
+	{
+		"name": "src",
+		"path": ".."
+	},
+	{
+		"name": "game",
+		"path": "../../../Users/User/OneDrive/Рабочий стол/Новая папка/game"
+	}
+],
+  "settings": {}
+}
